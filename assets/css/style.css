@@ -1,0 +1,21 @@
+body{
+    background-image: url('/assets/gallery/slanted-gradient.svg');
+    background-repeat: repeat;
+    background-size: cover;
+}
+/* 
+.my-form{
+    
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+} */
+/* form{
+    background-color: coral !important;
+    border: solid 2px coral;
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px rgb(20, 14, 14);
+} */
